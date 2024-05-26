@@ -1,0 +1,11 @@
+{
+  "name": "root-project",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "concurrently \"npm start --prefix client_api\" \"npm start --prefix book_api\""
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
