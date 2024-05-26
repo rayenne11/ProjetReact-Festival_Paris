@@ -32,4 +32,4 @@ Les administrateurs peuvent :
 1. Clonez le dépôt :
 
    ```bash
-   git clone https://github.com/votre-utilisateur/festival-du-livre.git
+   git clone https://github.com/rayenne11/ProjetReact-Festival_Paris
